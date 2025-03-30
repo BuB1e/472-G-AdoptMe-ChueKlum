@@ -1,0 +1,8 @@
+[submodule "AdoptMe-FrontEnd-Remix"]
+	path = AdoptMe-FrontEnd-Remix
+	url = https://github.com/472-AdoptMe/AdoptMe-FrontEnd-Remix
+	branch = main
+[submodule "AdoptMe-Database"]
+	path = AdoptMe-Database
+	url = https://github.com/pwtpcn/AdoptMe-Database
+	branch = main
